@@ -1,6 +1,6 @@
 # CMU-workshop
 
 list friends
-- Tob
+- Top
 - Rop
 - Jeng
